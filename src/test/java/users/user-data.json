@@ -1,0 +1,10 @@
+{
+  "id": 1001,
+  "username": "karate_testuser",
+  "firstName": "Elizabeth",
+  "lastName": "Doe",
+  "email": "elizabeth.doe@karatetest.com",
+  "password": "Test@1234",
+  "phone": "3001234567",
+  "userStatus": 1
+}
